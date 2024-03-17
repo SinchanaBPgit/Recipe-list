@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.recipe-title {
+    text-align: center;
+    font-size: 28px;
+    color: #333;
+    margin-top: 20px;
+}
+
+.recipe-image {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+}
+
+.recipe-section {
+    background-color: #f2f2f2;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.recipe-section h2 {
+    font-size: 24px;
+    color: #333;
+}
+
+.recipe-section p {
+    color: #666;
+}
